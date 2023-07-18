@@ -9,6 +9,6 @@ Ya veremos que Sigue en el curso, ahora guardando....
 
 tenemos cambios, para prueba de un nuevo commit.
 
-Añado info mia, tengo 32 años, y me estoy preparando para ser 
+Añado info mia, tengo 32 años recien cumplidos , y me estoy preparando para ser 
 desarrollador web.
 
