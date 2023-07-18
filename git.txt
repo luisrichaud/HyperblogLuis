@@ -6,3 +6,9 @@ Estoy aprediendo y esto me está gustando
 Gracias Dios por darme entendimiento
 
 Ya veremos que Sigue en el curso, ahora guardando....
+
+tenemos cambios, para prueba de un nuevo commit.
+
+Añado info mia, tengo 32 años, y me estoy preparando para ser 
+desarrollador web.
+
