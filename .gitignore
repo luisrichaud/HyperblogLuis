@@ -1,4 +1,4 @@
 #lista de archivos ignorados en mi proyecto
 
 *.jpg
-
+*.DS_Store
