@@ -52,7 +52,15 @@ body
 {
     background: white;
     padding: 1em;
+<<<<<<< HEAD
 } 
+=======
+<<<<<<< HEAD
+} 
+=======
+
+}
+>>>>>>> master 3
 
 #footer
 {
@@ -61,3 +69,7 @@ body
    text-align: center;
    padding: 0.5em;
 }
+<<<<<<< HEAD
+=======
+>>>>>>> Footer terminado
+>>>>>>> master 3
