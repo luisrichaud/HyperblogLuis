@@ -1,4 +1,4 @@
-<center> # Hyperblog de Luis 🖥️ 💻  </center>
+<center> <h1> Hyperblog de Luis 🖥️ 💻 </h1> </center>
 
 > Este es un Blog hecho en un curso de Platzi, donde he aprendido las diferentes y multiples formas que tenemos para trabajar con Git y Github, los comandos para trabajar desde consola con Git, y las multiples funciones que ofrece Github en su plataforma.
 
