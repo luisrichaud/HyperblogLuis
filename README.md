@@ -10,7 +10,7 @@
 * Flujo de Trabajos en Github
 * Las buenas practicas de Git y Github
 * Trucos muy interesantes en Git y Github
-
+* Incluye ejemplo en Windows, Linux y Mac
 
 Recordatorio. **Este README.md es un Ejemplo para el curso**. NO ES TAN SERIO.
 
