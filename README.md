@@ -15,5 +15,6 @@
 Recordatorio. **Este README.md es un Ejemplo para el curso**. NO ES TAN SERIO.
 
 Elaborado por **Luis Richaud**
-Disponible en Github Pages
+<p> <i>Disponible en Github Pages</i> </p>
+
 
