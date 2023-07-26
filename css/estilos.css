@@ -52,24 +52,13 @@ body
 {
     background: white;
     padding: 1em;
-<<<<<<< HEAD
-} 
-=======
-<<<<<<< HEAD
-} 
-=======
 
-}
->>>>>>> master 3
-
+} 
 #footer
 {
-   background: #777;
+   background: rgba(40, 22, 200, 0.873);
    color: white;
    text-align: center;
    padding: 0.5em;
 }
-<<<<<<< HEAD
-=======
->>>>>>> Footer terminado
->>>>>>> master 3
+
